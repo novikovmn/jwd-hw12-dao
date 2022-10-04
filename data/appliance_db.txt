@@ -1,0 +1,10 @@
+Laptop : brand=Honor, displayInch=14.0, operatingSystem=Windows, ram=8, cardReader=false
+Laptop : brand=Apple, displayInch=13.3, operatingSystem=MacOS, ram=16, cardReader=false
+Laptop : brand=Asus, displayInch=13.3, operatingSystem=Windows, ram=4, cardReader=true
+Laptop : brand=Acer, displayInch=15.6, operatingSystem=Windows, ram=8, cardReader=true
+Laptop : brand=Irbis, displayInch=14.0, operatingSystem=Linux, ram=4, cardReader=true
+Oven : brand=Bosh, capacity=52.0, powerConsumtion=1200
+Oven : brand=Tefal, capacity=42.0, powerConsumtion=900
+Oven : brand=Gefest, capacity=35.0, powerConsumtion=1000
+Oven : brand=Indesit, capacity=47.0, powerConsumtion=1400
+Oven : brand=Gefest, capacity=31.0, powerConsumtion=1600
